@@ -1,0 +1,4 @@
+echo "data/" > .gitignore
+echo "models/" >> .gitignore
+echo "__pycache__/" >> .gitignore
+echo ".vscode/" >> .gitignore
